@@ -19,7 +19,7 @@ const tokenizeString_1 = require("./tokenizeString");
 const fancyResponse_1 = require("./fancyResponse");
 function main() {
     return __awaiter(this, void 0, void 0, function* () {
-        console.log(chalk `{bold Welcome to {rgb(231, 76, 60) Frenchu}{rgb(41, 128, 185) Lator}}`);
+        console.log(chalk `{bold Welcome to {rgb(231, 76, 60) French}{rgb(41, 128, 185) Ulator}}`);
         console.log();
         const query = rl.question(chalk `Your {bold.rgb(231, 76, 60) math query:} `)
             ||
