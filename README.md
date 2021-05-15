@@ -2,7 +2,7 @@
 <img src="https://cdn.discordapp.com/attachments/590022219305058305/842865690146635786/Snimek_z_2021-05-14_22-47-09.png">
 </p>
 
-# FrenchuLator
+# FrenchUlator
 The calculator that knows french!
 
 ### Why?
@@ -11,7 +11,7 @@ Because why not.
 ![how did this happen](https://cdn.discordapp.com/attachments/733703994018496564/843066260408500254/Snimek_z_2021-05-15_12-03-49.png)
 
 ### How?
-This translator relies on several modules to translate numbers from french to english and turn words into numbers. It also uses math.js to evaluate the result. It might take a few seconds to calculate your equasion.
+This calculator relies on several modules to translate numbers from french to english and turn words into numbers. It also uses math.js to evaluate the result. It might take a few seconds to calculate your equasion.
 
 ## Instalation
 

@@ -9,7 +9,7 @@ import { tokenizeString } from './tokenizeString'
 import { fancyResponse } from './fancyResponse'
 
 async function main() {
-	console.log(chalk`{bold Welcome to {rgb(231, 76, 60) Frenchu}{rgb(41, 128, 185) Lator}}`)
+	console.log(chalk`{bold Welcome to {rgb(231, 76, 60) French}{rgb(41, 128, 185) Ulator}}`)
 	console.log()
 
 	const query = rl.question(chalk`Your {bold.rgb(231, 76, 60) math query:} `)
